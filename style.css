@@ -17,6 +17,8 @@
 body {
     background-color: var(--cor1);
     padding: 0px;
+    background-image: url(imagens/wallpapersiteTHEcine222.png);
+    background-position: center center;
 }
 
 header {
