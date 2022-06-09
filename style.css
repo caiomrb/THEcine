@@ -20,9 +20,9 @@ body {
     background-color: var(--cor1);
     padding: 0px;
     background-image: url(imagens/wallpapersiteTHEcine222.png);
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     
 
 }
