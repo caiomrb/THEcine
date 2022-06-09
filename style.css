@@ -61,16 +61,33 @@ header > p {
 }
 
 nav {
+    height: 20px;
     padding-bottom: 10px;
-    padding-left: 830px;
+   
     
 }
 
 nav > a {
     color: var(--cor3);
     text-decoration: none;
-    padding: 10px 10px 10px 10px;
+    
+    
 }
+
+#container {
+    position: relative;
+}
+
+#conteudo {
+    position: absolute;
+    left: 80%;
+    top: 20%;
+    
+}
+
+
+
+
 
 div#efeite {
     background-color: var(--cor3);
