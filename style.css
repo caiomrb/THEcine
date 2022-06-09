@@ -16,12 +16,15 @@
 }
 
 body {
+    height: 100vh;
     background-color: var(--cor1);
     padding: 0px;
     background-image: url(imagens/wallpapersiteTHEcine222.png);
-    background-position: center center;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    
+
 }
 
 header {
