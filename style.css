@@ -135,6 +135,12 @@ p.emcartaz {
     padding-right: 60px;
 }
 
+.pequena {
+    margin: auto;
+    display: block;
+
+}
+
 aside {
     min-height: 300px;
     background-color: #AE6FF6;
